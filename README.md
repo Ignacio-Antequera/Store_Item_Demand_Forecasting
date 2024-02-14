@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Store Item Demand Forecasting project! This project focuses on leveraging machine learning techniques, specifically deep learning with XGBoost, to forecast the demand for items in a retail setting. Accurate demand forecasting is critical for supply chain management and inventory optimization.
+Hi! Welcome to the Store Item Demand Forecasting project! This project focuses on leveraging machine learning techniques, specifically deep learning with XGBoost, to forecast the demand for items in a retail setting. Accurate demand forecasting is critical for supply chain management and inventory optimization.
 
 ## Project Overview
 
